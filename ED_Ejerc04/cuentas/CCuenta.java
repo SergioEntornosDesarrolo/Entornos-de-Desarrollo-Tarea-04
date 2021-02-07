@@ -1,3 +1,6 @@
+//* @author Sergio Manuel Sanchez Serrano*/
+
+
 public class CCuenta {
 
 
